@@ -18,7 +18,3 @@ This project was built using the following tools:
 - GitHub Copilot
 - Gemini
 - Vercel
-
-## Purpose
-
-The primary goal of this project is to demonstrate "vibe coding."
